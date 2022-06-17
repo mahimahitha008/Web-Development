@@ -1,0 +1,7 @@
+var 9tv =100             //Not Valid (Not to start with a number)
+var id9 =200             //Valid (can start with letters )
+var en@me = "Raghul"     //Not Valid (canot include special characters exceot $ )
+var _sal = 450000        //Valid (can include underscore)
+var $loc= "Noida"        //Valid (can include $)
+var if = 500             //Not Valid (cant include key words or reserved words)
+console.log(_sal)        //(Total keywords in javascript are 65+)
